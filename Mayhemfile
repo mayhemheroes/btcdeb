@@ -1,0 +1,5 @@
+project: btcdeb
+target: btcdeb
+
+cmds:
+  - cmd: /repo/btcdeb
