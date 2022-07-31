@@ -2,4 +2,4 @@ project: btcdeb
 target: btcdeb
 
 cmds:
-  - cmd: /repo/btcdeb
+  - cmd: /install/bin/btcdeb
